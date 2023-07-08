@@ -9,6 +9,7 @@ Documentation for [Sacabambaspis](https://github.com/terasakisatoshi/Sacabambasp
 ```@index
 ```
 
-```@autodocs
-Modules = [Sacabambaspis]
+```@docs
+Sacabam
+Baspis
 ```

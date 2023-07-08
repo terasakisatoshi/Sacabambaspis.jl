@@ -1,6 +1,3 @@
-using Sacabambaspis
-using Test
+using ReTestItems, Sacabambaspis
 
-@testset "Sacabambaspis.jl" begin
-    # Write your tests here.
-end
+runtests(Sacabambaspis)
