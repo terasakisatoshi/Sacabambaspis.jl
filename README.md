@@ -1,5 +1,7 @@
 # Sacabambaspis.jl
 
+[![CI](https://github.com/terasakisatoshi/Sacabambaspis.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/terasakisatoshi/Sacabambaspis.jl/actions/workflows/CI.yml)
+
 Sacabambaspis memes.
 
 # 概要
@@ -16,11 +18,15 @@ $ cd Sacabambaspis.jl.git
 $ julia --project -e 'using Pkg; Pkg.instantiate()' 
 ```
 
-## Run 
+## Init Julia REPL
+
+```console
+$ julia --project
+```
+
+After that, run the following commands below:
 
 ```julia
-$ julia --project
-
                _
    _       _ _(_)_     |  Documentation: https://docs.julialang.org
   (_)     | (_) (_)    |
