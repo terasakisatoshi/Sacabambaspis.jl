@@ -1,3 +1,5 @@
-using ReTestItems, Sacabambaspis
+using ReTestItems: runtests
+
+using Sacabambaspis: Sacabambaspis
 
 runtests(Sacabambaspis)
